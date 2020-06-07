@@ -12,6 +12,7 @@
 - [beatsbydre.com](http://beatsbydre.com) 사이트의 interface 와 동일하게 화면 구현하기.
 - 실제 사이트에 없는 회원가입/로그인, Cart, 마이페이지, 결제내역 기능 추가하기.
 - Back-End API를 통해 데이터를 GET / POST / DELETE 하기.
+- trello를 사용해 협업하며 매일 아침 Stand Up 미팅과, 스프린스 스크럼 미팅 진행하기.
 
 ## 사용한 기술
 - Front-End: ReactJS, Sass
