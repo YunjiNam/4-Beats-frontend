@@ -6,6 +6,7 @@
 - 4명의 개발자가 함께 협업했습니다. (3 Front-End, 1Back-End)
 
 ## Demo
+<iframe width="640" height="360" src="https://img.youtube.com/embed/SYwS8Oii69w/0.jpg)](https://www.youtube.com/embed/SYwS8Oii69w?t=0s" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 [![](https://img.youtube.com/embed/SYwS8Oii69w/0.jpg)](https://www.youtube.com/embed/SYwS8Oii69w?t=0s) 
 
 ## 목표
