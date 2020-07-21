@@ -7,6 +7,7 @@
 
 ## Demo
 <a href="https://youtu.be/Xe5RDq6t8j0"><img src="https://media.vlpt.us/images/vllyj2260/post/5f083e62-ce9a-40df-8244-0b4a32d6ec8a/3.png" width="400px"></img></a>
+- 이미지 클릭시 이동
 
 ## 목표
 - [beatsbydre.com](http://beatsbydre.com) 사이트의 interface 와 동일하게 화면 구현하기.
