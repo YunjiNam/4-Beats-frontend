@@ -16,7 +16,7 @@
 - trello를 사용해 협업하며 매일 아침 Stand Up 미팅과, 스프린스 스크럼 미팅 진행하기.
 
 ## 사용한 기술
-- Front-End: React.js, Sass, Daum Postcode API
+- Front-End: React.js, Sass, Daum Postcode API  
 - Back-End: Django, MySQL([Back-End Repository](https://github.com/wecode-bootcamp-korea/4-Beats-backendhttps://github.com/wecode-bootcamp-korea/4-Beats-backend))
 - Deployment: AWS
 
