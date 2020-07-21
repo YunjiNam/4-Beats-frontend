@@ -6,7 +6,7 @@
 - 4명의 개발자가 함께 협업했습니다. (3 Front-End, 1Back-End)
 
 ## Demo
-<a href="https://youtu.be/Xe5RDq6t8j0"><img src="https://media.vlpt.us/images/vllyj2260/post/822094b3-9e9f-4e1c-8e60-a2d87def1c6e/2.png" width="400px"></img></a>
+<a href="https://youtu.be/3i2QFbZcVYE"><img src="https://media.vlpt.us/images/vllyj2260/post/bacb4edc-6043-43cb-807e-6e6aa80f554f/1.png" width="400px"></img></a>
 
 ## 목표
 - [beatsbydre.com](http://beatsbydre.com) 사이트의 interface 와 동일하게 화면 구현하기.
